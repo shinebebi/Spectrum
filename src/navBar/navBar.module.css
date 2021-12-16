@@ -1,0 +1,12 @@
+.container {
+    display: flex;
+    background-color: lightslategrey;
+    gap: 100px;
+    align-items: center;
+    justify-content: center;
+    height: 100px;
+}
+.link {
+    text-decoration: none;
+    color: ivory;
+}

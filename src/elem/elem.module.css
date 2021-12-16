@@ -1,0 +1,25 @@
+.main {
+    background: #1C1C21;
+    position: absolute;
+    width: 100%;
+    height: 115%;
+    display: flex;
+    flex-direction: column;
+    top: 0;
+    left: 0;
+    justify-content: center;
+}
+.img {
+    width: 750px;
+    height: 200px;
+}
+.header {
+    font-size: 50px;
+    color: whitesmoke;
+    margin: 60px auto 50px auto;
+}
+.imgContainer {
+    width: 750px;
+    height: 200px;
+    margin: 60px auto 50px auto;
+}
